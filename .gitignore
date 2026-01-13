@@ -7,8 +7,6 @@ __pycache__/
 *.pyc
 *.pyo
 
-# Power BI
-*.pbix
 
 # OS files
 .DS_Store
